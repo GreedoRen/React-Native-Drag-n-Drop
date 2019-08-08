@@ -1,2 +1,2 @@
-# DnD
-Drag-and-Drop Game with react-beautiful-dnd
+# ReactNative DnD
+Drag-and-Drop
